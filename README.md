@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Welcome!
 
 <!--
 **mzhong45/mzhong45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working for a Fortune 500 company as a senior data scientist.
+- 🌱 I’m currently learning Computer Science via the OMSCS program.
+- 👯 I’m looking to collaborate on research on NLP
+- 💬 Ask me about data science, retail, advertisement, and statistics.
+- ⚡ Fun fact: I speak three languages.
